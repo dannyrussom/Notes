@@ -55,4 +55,8 @@ git checkout -- .             # Discard all local changes
 git pull --rebase             # Cleaner history
 git log --graph --oneline --all  # Visual history
 
-
+# Git Note
+To put your local project on git:
+- create a repository
+- follow the instructions on github
+- create a .gitignore file before adding or commiting.
