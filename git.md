@@ -58,5 +58,8 @@ git log --graph --oneline --all  # Visual history
 # Git Note
 To put your local project on git:
 - create a repository
-- follow the instructions on github
+- follow the instructions on github but NOTICE THE DIFFERENCE BELOW!
+for authenticating with https = git remote add origin https://github.com/dannyrussom/Dissertation-.git
+for authenticating with ssh = git remote add origin git@github.com:dannyrussom/Dissertation-.git
+- FYI ssh is better so set it up first, and you can use it for every repo EASY.
 - create a .gitignore file before adding or commiting.
