@@ -1,6 +1,6 @@
 # **Python virtual enviroments**
 
-## UBUNTU
+## UBUNTU24
 
 **Check**
 
